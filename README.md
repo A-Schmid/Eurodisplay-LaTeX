@@ -1,6 +1,6 @@
 # Eurodisplay-LaTeX
 
-Reconstructed the MS Word paper template for Eurodisplay 2020 conference in LaTeX.
+Reconstructed the MS Word paper template for [Eurodisplay 2020](https://www.eurodisplay.uni-stuttgart.de/call-for-papers/) conference in LaTeX.
 
 It's not *exactly* like the Word template (like in per pixel exactly) but good enough that nobody will notice I guess.
 
